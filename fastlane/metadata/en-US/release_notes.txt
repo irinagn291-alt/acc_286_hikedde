@@ -1,0 +1,16 @@
+This 1.0 release is the first version of Сhikedde, a daily bead diary. Each day you tie a short caption on today's bead, then string a photo or a voice note so that day stays on a vertical thread.
+
+• Tie a caption on today's bead
+• String a photo or a voice note
+• Play or stop a strung voice note
+• Peel the newest action
+• Vertical thread of earlier beads
+• On this day, Weeks, Gallery, Settings, and Thread
+• Export thread and Export weft
+• Haptics
+• Show introduction
+• Reset thread
+• Contact
+• Dark appearance only
+
+English UI on iPhone and iPad. Minimum iOS 17.0. Portrait only, full screen. Captions, photos, and voice notes stay on this device. A clean install opens an empty thread after onboarding.

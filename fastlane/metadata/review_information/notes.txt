@@ -1,0 +1,21 @@
+The Microphone permission appears when the user taps Voice, or starts a recording from String. The system usage string is "Heddle records a voice note onto today's knot. The clip stays on this device." If access was refused earlier, the app shows Microphone is off and Open Settings instead of asking again. Photo uses the system picker after Photo. The app does not ask for a photo-library or camera permission of its own.
+
+There is no login, no in-app purchase, no account deletion flow, and no App Tracking Transparency prompt.
+
+Сhikedde is a daily bead diary for people who keep days as knots on a string, not as a reverse-chronological feed. Each day you tie a short caption on today's bead, then string a photo or a voice note. Captions, photos, and voice notes are private diary entries on this device, not a public feed.
+
+No credentials or demo account are needed. On a cold launch the system shows a generated dark launch screen, then a brief wait. If the wait lasts more than a moment, a spinner appears with the accessibility name Loading. The first launch is four onboarding pages with page numbers 1, 2, 3, 4, Skip at the top right, and a full-width button at the bottom. Page 1: title Tie a caption, line A knot is a short line on today's bead, button Next. Page 2: title String the knot, line Add a photo or a voice note. It stays on this device, button Next. Page 3: title Read the cloth, line Each strung knot fills a week on the year cloth, button Next. Page 4: title Look back, line On this day lines up the same date in prior years, button Continue. Next advances one page. Continue or Skip closes onboarding and opens the home thread with no knots.
+
+On the empty thread, type a non-empty caption in Caption and tap Tie. An empty Tie shows Write a caption, then Tie. After Saved., the header reads String today's knot. Tap String. On the String sheet, Photo opens the system photo picker; Voice starts a voice-note recording after the microphone prompt. While recording, String reads Stop & String. String before Tie shows That string did not tie. Tie a caption first.
+
+Header controls On this day, Weeks, Gallery, and Settings open sheets; each has Close. On this day in the first session shows No prior year on this date; that is correct, because the list only shows earlier years. Weeks stays No weft this year and Gallery stays No strung beads until a knot is Strung. After String, Weeks shows Tension and Week N cards; tap a week to expand, then tap a row to open Thread. Gallery tiles and earlier beads also open Thread. In Settings, Show introduction replays onboarding, Export thread and Export weft prepare then open the system share sheet, Haptics is on by default, Reset thread offers Delete thread, and Contact opens the support page. Peel undoes the newest action.
+
+Captions, photos, and voice notes stay on this device. Support is Contact in Settings.
+
+Behaviour does not differ by region. There is no region lock. The UI is English. Dates use the device's calendar and medium date style. Counts use the device's decimal style. Day boundaries follow the device time zone. Weeks on the cloth are ISO weeks (Monday start).
+
+No licence or regulated-industry paperwork applies. The app is a personal Lifestyle diary and is not in a licensed or regulated industry.
+
+The app is a personal log only and gives no recommendations. It does not show health, medical, or product-health information.
+
+The app does not scan barcodes or QR codes.

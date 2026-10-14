@@ -1,0 +1,22 @@
+Сhikedde is a daily bead diary. Each day you tie a short caption on today's bead, then string a photo or a voice note so that day stays on a vertical thread. It is for people who keep days as knots on a string, not as a reverse-chronological feed.
+
+• Tie a caption on today's bead (Tie, field Caption)
+• One knot per calendar day unless you Peel
+• String a photo onto a Tied knot (String, then Photo)
+• String a voice note onto a Tied knot (String, then Voice, then Stop & String)
+• Play or stop a strung voice note (Play voice note / Stop voice note)
+• Peel the newest action
+• Vertical thread of earlier beads, newest open bead on top
+• On this day: today's knot beside strung knots from prior years on the same month and day
+• Weeks: year cloth of ISO weeks, with Tension streak and totals
+• Gallery: every strung photo or voice note
+• Thread: one earlier bead, large
+• Saved. after a successful Tie or String
+• Export thread and Export weft from Settings
+• Haptics on or off
+• Show introduction to replay onboarding
+• Reset thread to delete the thread and its media
+• Contact for support
+• Dark appearance only
+
+Captions, photos, and voice notes stay on this device.
