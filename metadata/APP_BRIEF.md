@@ -1,4 +1,4 @@
-<!-- gf-brief source=0d7af7ff4f1a93241392a84b70f9df0daed616233a9747ce479b2706c466989b written=2026-10-14T17:46:55+03:00 -->
+<!-- gf-brief source=0d7af7ff4f1a93241392a84b70f9df0daed616233a9747ce479b2706c466989b written=2026-10-14T18:00:31+03:00 -->
 # Сhikedde
 ## What it is
 A daily bead diary. Each day you tie a short caption on today's bead, then string a photo or a voice note so that day stays on a vertical thread. It is for people who keep days as knots on a string, not as a reverse-chronological feed.
